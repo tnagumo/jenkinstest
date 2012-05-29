@@ -1,5 +1,5 @@
 import java.util.*;
 
 public static int main(int argc, String argv[]) {
-    System.out.println("hello world.");
+    System.out.println("Hello world.");
 }
